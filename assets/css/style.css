@@ -17,7 +17,7 @@ body {
 }
 @font-face {
   font-family: "DisCharge";
-  src: url(/assets/fonts/DischargePro.ttf);
+  src: url(../fonts/DischargePro.ttf) format("truetype");
 }
 header {
   height: 180px;
